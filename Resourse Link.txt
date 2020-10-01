@@ -1,0 +1,5 @@
+http://courses.coreservlets.com/Course-Materials/csajsp2.html
+
+http://www.javatpoint.com/servletrequest
+
+https://www.tutorialspoint.com/jsp/jsp_overview.htm
